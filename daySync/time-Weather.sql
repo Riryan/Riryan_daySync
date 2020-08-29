@@ -4,5 +4,3 @@ CREATE TABLE `daySync` (
     `weather` int (11) NOT NULL
 );
 
-ALTER TABLE `daySync`
-ADD PRIMARY KEY (`identifier`);
